@@ -1,0 +1,8 @@
+#VSC
+.vscode/
+.editorconfig
+.vs/
+*.code-workspace
+
+#No need
+Inputs/
